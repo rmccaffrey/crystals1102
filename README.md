@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
     '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
@@ -26,3 +27,9 @@ Visit http://docs.c9.io for documentation, or http://support.c9.io for support.
 To watch some training videos, visit http://www.youtube.com/user/c9ide.
 
 more notes from 1102 in vc-dig1102/assignments
+=======
+crystals1102
+============
+
+crystals1102
+>>>>>>> 320e038e49309d6ee1626e50b08628962c0dce69
